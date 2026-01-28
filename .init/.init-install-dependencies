@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/hello-world-mobile-app-206720-206729/hello_world_frontend"
+}
